@@ -32,7 +32,7 @@ import static org.mockito.Mockito.when;
 import android.app.Activity;
 import android.content.Context;
 import androidx.test.core.app.ApplicationProvider;
-import com.google.android.ads.nativetemplates.TemplateView;
+
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdValue;

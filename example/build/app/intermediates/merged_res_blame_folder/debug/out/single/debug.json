@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "io.flutter.plugins.googlemobileadsexample.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "io.flutter.plugins.googlemobileadsexample.app-main-26:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.flutter.plugins.googlemobileadsexample.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "io.flutter.plugins.googlemobileadsexample.app-main-26:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.flutter.plugins.googlemobileadsexample.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "io.flutter.plugins.googlemobileadsexample.app-main-26:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.flutter.plugins.googlemobileadsexample.app-merged_res-31:/layout_my_native_ad.xml.flat",
+        "source": "io.flutter.plugins.googlemobileadsexample.app-main-26:/layout/my_native_ad.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.googlemobileadsexample.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "io.flutter.plugins.googlemobileadsexample.app-main-26:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.flutter.plugins.googlemobileadsexample.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "io.flutter.plugins.googlemobileadsexample.app-main-26:/mipmap-xhdpi/ic_launcher.png"
+    }
+]
